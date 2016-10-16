@@ -1,6 +1,9 @@
 # Search & Destroy for Amazon, Etsy and Ebay!
 ## Extension to remember items you've already seen + keyboard navigation!
 
++ Get it for [Chrome](https://chrome.google.com/webstore/detail/search-destroy-for-amazon/nddigkbhmfbmjcobjbdkljjdoajejdfn)
++ Get it for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/search-destroy-for-amazon/?src=cb-dl-recentlyadded)
+
 When trying to find the perfect gift or purchase for yourself, you often need to change search parameters, categories or sorting. The problem is, when you do that you end up having to look at some of the same items multiple times. You already know those products are not what you want, but the store does not.
 
 Search & Destroy solves this problem by **remembering the items you've already seen** during your current search, event through search changes or refreshes. "Seen" items can be faded out or completely hidden.
