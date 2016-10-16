@@ -1,0 +1,90 @@
+.snd_style .snd_options {
+    background-color: white;
+    border: 1px solid #F3A847;
+    border-radius: 3px;
+    padding: 7px;
+    min-height: 100px;
+}
+
+.snd_moreInfo_control {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.snd_moreInfo {
+    display: none;
+}
+
+.snd_style div.sdn_p {
+    margin-bottom: 7px;
+}
+
+.snd_style div.sdn_p_clear {
+    clear: both;
+}
+
+.snd_style .reset {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.snd_itemPresentation_fadedOut50 .snd_seen {
+    opacity: .50;
+}
+
+.snd_itemPresentation_fadedOut20 .snd_seen {
+    opacity: .20;
+}
+
+.snd_itemPresentation_dashed .snd_seen {
+    border: 3px dashed #AAA;
+}
+
+.snd_itemPresentation_hidden .snd_seen {
+    display: none !important;
+}
+
+span.snd_key {
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    display: inline-block;
+    width: 20px;
+    text-align: center;
+    background-color: hsl(0, 0%, 97%);
+}
+
+
+/*image url is in style_image.css*/
+
+.snd_style .snd_icon {
+    min-height: 70px;
+    padding-left: 65px;
+    background-repeat: no-repeat;
+    background-position: left middle;
+}
+
+.snd_optTxtWrapper {
+    border-left: 1px dotted #ccc;
+    padding-left: 3px;
+}
+
+
+/******* store specific CSS *******/
+
+.snd_amazon.snd_style .snd_options {
+    margin-left: 7px;
+    margin-right: 7px;
+}
+
+.snd_etsy.snd_style .snd_options {
+    margin-bottom: 7px;
+}
+
+.snd_ebay.snd_style .snd_options {
+    border: 1px solid #e4e4e4;
+}
+
+.snd_ebay.snd_style .snd_icon {
+    min-height: 40px;
+}
