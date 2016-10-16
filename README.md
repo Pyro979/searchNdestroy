@@ -11,10 +11,10 @@ Search & Destroy solves this problem by **remembering the items you've already s
 *BONUS POINTS:* with S&D you can also use *"j/k"* keys to navigatate through the list of items, and use the *"n"* key to go to next page. This lets you fly through large sets of results with ease.
 
 Currently S&D is available for:
-* Amazon
-* Etsy
-* Ebay
-* ...with more stores coming (see contributing below)
++ Amazon
++ Etsy
++ Ebay
++ ...with more stores coming (see contributing below)
 
 ## Contributing - PRs welcome
 
